@@ -1,4 +1,4 @@
-# AttendanceRefistrationWithSpringBoot
+# AttendanceRegistrationWithSpringBoot
 This is an evolution of the JavaAttendanceRegistrationSoftware the request from the client are now managed by SprinBoot
 This simple Server/Client software that allows for clients to reggister their attendances in events created by administrators <br>
 
